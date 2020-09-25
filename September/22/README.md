@@ -1,9 +1,9 @@
 # Button Press Counter w/ OLED Display
 
-![ready](media/ready.png)
+![ready](media/ready.jpg)
 
-![pressed](media/pressed.png)
+![pressed](media/pressed.jpg)
 
-![one](media/one.png)
+![one](media/one.jpg)
 
-![multiple](media/multiple.png)
+![multiple](media/multiple.jpg)
