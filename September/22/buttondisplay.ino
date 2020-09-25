@@ -24,7 +24,7 @@ void setup(){
   }
   Serial.println("Button ready");
 
-  // initialize button
+  // initialize display
   if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3D)){
     Serial.println("SSD1306 fail");
     while(1);
@@ -37,7 +37,7 @@ void setup(){
 void loop(){
   if(button.isPressed()){
     count++;
-    
+
     clrprint("PRESSED");
     Serial.println("pressed");
 
