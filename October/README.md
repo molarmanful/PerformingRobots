@@ -4,7 +4,23 @@ For this project, I decided to try experimenting with a weird design which invol
 
 ## Gallery
 
+![sled](media/sled.jpg)
 
+![sled2](media/sled2.jpg)
+
+Finished work. Batteries and MP3 trigger are stowed underneath the Redboard.
+
+![belly](media/belly.jpg)
+
+Exposed underbelly of the machine. The underfin acts as a stabilizer, somewhat similar to a boat rudder or a tricycle third wheel.
+
+![rider](media/rider.jpg)
+
+Closer look at rider itself. The box itself is folded from a thin cardboard/thick paper package, with cut slots at the sides for the wire "arms." Sled "blades" are glued at the bottom to reduce side-to-side drift.
+
+![skeleton](media/skeleton.jpg)
+
+Circuitry prior to assembly.
 
 ## Problems
 
