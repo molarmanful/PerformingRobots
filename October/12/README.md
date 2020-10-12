@@ -1,6 +1,6 @@
 # A Broken Robot
 
-![robot](https://imgur.com/a/UBzSccq)
+![robot](https://i.imgur.com/ooCnMuw.jpg)
 
 [DEMO](https://streamable.com/qa1is3)
 
