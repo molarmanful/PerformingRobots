@@ -33,7 +33,7 @@ O, that I were a glove upon that hand,
 That I might touch that cheek!
 ```
 
-For this project, I shifted my focus towards the motors, trying to make them more precise/consistent for subtler arm motions. I managed to get what I feel is a satisfactory level of precision that hopefully mimics the grand arm movements of human actors who reenact this scene. In addition, I opted to use an asynchronous `millis()`-based timing system rather than the synchronous (blocking) `delay()` system for easier syncing of movement cues with the audio track. This allowed me to fine-tune pauses and expressions in the audio track separately from the code, making it somewhat more convenient for me to play around with movements.
+I shifted my focus towards the motors, trying to make them more precise/consistent for subtler arm motions. I managed to get what I feel is a satisfactory level of precision that hopefully mimics the grand arm movements of human actors who reenact this scene. In addition, I opted to use an asynchronous `millis()`-based timing system rather than the synchronous (blocking) `delay()` system for easier syncing of movement cues with the audio track. This allowed me to fine-tune pauses and expressions in the audio track separately from the code, making it somewhat more convenient for me to play around with movements.
 
 For the audio track, I recorded a TTS playback of the script as an MP3, then edited the file with pauses to allow some more room for motions. During editing, I also changed the talking speed at certain points to reduce the odd pacing that the TTS sometimes had when speaking the lines.
 
