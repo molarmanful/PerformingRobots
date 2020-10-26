@@ -6,7 +6,7 @@
 
 For this project, I decided to make my robot reenact Romeo's monologue from *Romeo and Juliet*:
 
->>>
+```
 But, soft! what light through yonder window breaks?
 It is the east, and Juliet is the sun.
 Arise, fair sun, and kill the envious moon,
@@ -31,7 +31,7 @@ That birds would sing and think it were not night.
 See, how she leans her cheek upon her hand!
 O, that I were a glove upon that hand,
 That I might touch that cheek!
->>>
+```
 
 For this project, I shifted my focus towards the motors, trying to make them more precise/consistent for subtler arm motions. I managed to get what I feel is a satisfactory level of precision that hopefully mimics the grand arm movements of human actors who reenact this scene. In addition, I opted to use an asynchronous `millis()`-based timing system rather than the synchronous (blocking) `delay()` system for easier syncing of movement cues with the audio track. This allowed me to fine-tune pauses and expressions in the audio track separately from the code, making it somewhat more convenient for me to play around with movements.
 
