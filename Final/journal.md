@@ -51,7 +51,7 @@ I've figured out a solution to yesterday's problem. Rather than a projectile-bas
 
 ## December 6
 
-![finished set](https://i.imgur.com/sQtm9UW.mp4)
+[finished set](https://i.imgur.com/sQtm9UW.mp4)
 
 ![lighting used](https://i.imgur.com/HxUPuLj.jpeg)
 
